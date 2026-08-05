@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>AP de Geografia - Argentina</title>
+
+<style>
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(#8fd8ff, #ffffff);
+}
+
+.container{
+    width:80%;
+    max-width:800px;
+    margin:40px auto;
+    background:white;
+    border-radius:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.2);
+    overflow:hidden;
+}
+
+.topo{
+    background:#74c8f2;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+.topo h1{
+    margin:0;
+    font-size:34px;
+}
+
+.conteudo{
+    padding:30px;
+}
+
+.integrantes{
+    background:#eef9ff;
+    border-left:5px solid #74c8f2;
+    padding:15px;
+    margin-bottom:30px;
+    border-radius:6px;
+}
+
+.integrantes h2{
+    margin-top:0;
+    color:#1f7fb6;
+}
+
+.integrantes ul{
+    margin:10px 0 0 20px;
+}
+
+.curiosidade{
+    background:#f8f8f8;
+    border-radius:8px;
+    padding:20px;
+}
+
+.curiosidade h2{
+    color:#1f7fb6;
+    margin-top:0;
+}
+
+p{
+    line-height:1.7;
+    font-size:18px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+    <div class="topo">
+        <h1>AP de Geografia da Argentina</h1>
+    </div>
+
+    <div class="conteudo">
+
+        <div class="integrantes">
+            <h2>Integrantes</h2>
+            <ul>
+                <li>AL Correa</li>
+                <li>AL Déborah Ribeiro</li>
+                <li>AL J Wilson</li>
+            </ul>
+        </div>
+
+        <div class="curiosidade">
+            <h2>Curiosidade</h2>
+
+            <p>
+                Você sabia que a seleção da Argentina é uma das seleções que mais acumulou cartões vermelhos na história das Copas do Mundo? Ela soma <strong>11 expulsões</strong>, empatando com o Brasil nesse quesito.
+            </p>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
